@@ -1,0 +1,52 @@
+name: perang_dulang
+description: A simple lane battle spawner game built with Flutter + Flame.
+publish_to: "none"
+version: 1.1.0+2
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.18.0
+  flame_audio: ^2.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.0
+
+flutter_native_splash: 
+ image: assets/images/splash.png 
+ color: "#000000" 
+ android: true
+ ios: true
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/background.jpg
+  - assets/images/base.png
+  - assets/images/backgrounda.jpg
+  - assets/images/bgstart.jpg
+  - assets/images/pelanduk.png
+  - assets/images/farmer.png
+  - assets/images/swordman.png
+  - assets/images/spearman.png
+  - assets/images/tower.png
+  - assets/images/babiHutan.png
+  - assets/images/biawakapi.png
+  - assets/images/buaye.png
+  - assets/images/rafi.jpg
+  - assets/images/jeki.jpg
+  - assets/images/dikko.jpg
+  - assets/images/habibi.jpg
+  - assets/images/riduan.jpg
+  - assets/images/fatir.jpg
+  - assets/images/splash.png
+  - assets/audio/musik.mp3
+  - assets/audio/start.mp3
+
