@@ -149,7 +149,7 @@ flutter run
 
 <img src="perang-dulang-game/assets/images/splash.png" width="45%">
 <br>
-<img src="perang-dulang-game/assets/images/bgstart.jpg" width="45%">
+<img src="screenshots/start-menu.jpeg" width="45%">
 <br>
 <img src="screenshots/gameplay.jpeg" width="45%">
 
