@@ -147,11 +147,11 @@ flutter run
 
 
 
-<img src="perang-dulang-game/assets/images/splash.png" width="250">
-
-<img src="perang-dulang-game/assets/images/bgstart.jpg" width="600">
-
-<img src="screenshots/gameplay.jpeg">
+<img src="perang-dulang-game/assets/images/splash.png" width="45%">
+<br>
+<img src="perang-dulang-game/assets/images/bgstart.jpg" width="45%">
+<br>
+<img src="screenshots/gameplay.jpeg" width="45%">
 
 
 
