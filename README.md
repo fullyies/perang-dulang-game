@@ -145,12 +145,13 @@ flutter run
 
 ## 📸 Screenshot
 
-Tambahkan screenshot pada folder `screenshots/`.
-
 ```markdown
-![Start Menu](screenshots/start-menu.png)
 
-![Gameplay](screenshots/gameplay.png)
+<img src="perang-dulang-game/assets/images/splash.png" width="250">
+
+<img src="perang-dulang-game/assets/images/bgstart.jpg" width="600">
+
+<img src="screenshots/gameplay.jpeg">
 
 ```
 
