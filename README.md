@@ -145,7 +145,7 @@ flutter run
 
 ## 📸 Screenshot
 
-```markdown
+
 
 <img src="perang-dulang-game/assets/images/splash.png" width="250">
 
@@ -153,7 +153,7 @@ flutter run
 
 <img src="screenshots/gameplay.jpeg">
 
-```
+
 
 ---
 
